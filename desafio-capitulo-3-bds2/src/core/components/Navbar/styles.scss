@@ -1,0 +1,16 @@
+.title-bar {
+    background-color: #1890FF;
+    color: #FFF;
+    height: 60px;    
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+    font-size: 24px;
+    line-height: 32px;
+
+    a {
+        font-style: normal;        
+        color: #FFF;
+        text-decoration: none;
+    }
+}
